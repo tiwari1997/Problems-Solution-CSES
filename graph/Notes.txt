@@ -1,0 +1,6 @@
+****** Graph Concepts ************
+BFS -> Breadth First Search
+DFS -> Depth First Search
+Number of Components
+Graph Coloring
+Think of applying Dijkstra Algorithm only when graph is weighted and weights are unequal
