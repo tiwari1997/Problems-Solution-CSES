@@ -1,2 +1,2 @@
 # CSES_PROBLEMS_SOLUTION
-Solutions of CSES problems
+This repository contains the Solutions of CSES problems
